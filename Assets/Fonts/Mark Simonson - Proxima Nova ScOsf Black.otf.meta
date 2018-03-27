@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: fb1affb68d178432f94e408e941cfc66
+timeCreated: 1522026452
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Proxima Nova ScOsf
+  fontNames:
+  - Proxima Nova ScOsf
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b3dcfd001be53441bbf7cb8bc14ff5b6, type: 3}
+  - {fileID: 12800000, guid: 5c111390480754f7e8c39d1a94dfda8f, type: 3}
+  - {fileID: 12800000, guid: a6a4c7a0597c243a7b1978e6936c4d38, type: 3}
+  - {fileID: 12800000, guid: 717e192151bf8413aa731b3ec73d0375, type: 3}
+  - {fileID: 12800000, guid: 6053a5e3d8e8449d4a1ffba6adbf86fa, type: 3}
+  - {fileID: 12800000, guid: ab46a1b44c41140dbaa0582bd974995f, type: 3}
+  - {fileID: 12800000, guid: f39de5d40c8fd434f9b8ee46c6447873, type: 3}
+  - {fileID: 12800000, guid: 33322dc565041419db1a68a56c7574c2, type: 3}
+  - {fileID: 12800000, guid: f968cf482c18a4ffd8bb4380c2d07f07, type: 3}
+  - {fileID: 12800000, guid: e32df829d276346f98c4298cf7c4c137, type: 3}
+  - {fileID: 12800000, guid: b527f5cbcf5144c388e1539cd9976bf6, type: 3}
+  - {fileID: 12800000, guid: 362ded9c1429547cd963a0672ade94aa, type: 3}
+  - {fileID: 12800000, guid: 3ffb899d8e7df49959d2911bc4ed5aa3, type: 3}
+  - {fileID: 12800000, guid: 0375198f16ad1403ab9e6042fb4fb5c6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
